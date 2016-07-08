@@ -3,5 +3,5 @@ testi
 es aris faili 2
 
 { - begin
-
+// rame qeni
 } - end;
