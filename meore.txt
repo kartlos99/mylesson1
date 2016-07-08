@@ -1,0 +1,7 @@
+22222222
+testi
+es aris faili 2
+
+{ - begin
+
+} - end;
